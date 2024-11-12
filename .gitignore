@@ -18,3 +18,8 @@ src/environments/environment.*.ts
 *.ntvs*
 *.njsproj
 *.sln
+
+
+
+.nx/cache
+.nx/workspace-data
